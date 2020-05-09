@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand navbar-dark peach-gradient">
+<nav class="navbar navbar-expand navbar-dark danger-color">
 
   <a class="navbar-brand" href="/"><i class="far fa-sticky-note mr-1"></i>koimo</a>
 
